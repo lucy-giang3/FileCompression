@@ -10,6 +10,6 @@ FileCompression is a Huffman coding-based file compression and decompression too
 - Handles both empty and non-empty files gracefully.  
 
 ## Usage
-./compressor input_file compressed_file
-./decompressor compressed_file output_file
+- ./compressor input_file compressed_file
+- ./decompressor compressed_file output_file
 
