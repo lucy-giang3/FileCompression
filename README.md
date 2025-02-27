@@ -7,7 +7,7 @@ FileCompression is a Huffman coding-based file compression and decompression too
 - Implements **Huffman Coding** for lossless file compression.  
 - Custom **FancyInputStream** and **FancyOutputStream** classes for bit-level operations.  
 - Stores and reconstructs Huffman trees for efficient decoding.  
-- Handles both empty and non-empty files gracefully.  
+- Handles both empty and non-empty files.
 
 ## Usage
 - ./compressor input_file compressed_file
